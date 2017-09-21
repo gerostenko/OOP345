@@ -1,0 +1,27 @@
+﻿  w4.cpp
+d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(25): warning C4101: 'width': unreferenced local variable
+d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(60): warning C4018: '<': signed/unsigned mismatch
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(59): note: while compiling class template member function 'w3::KVList<std::string,double,5> &w3::KVList<std::string,double,5>::replace(int,const K &,const V &)'
+          with
+          [
+              K=std::string,
+              V=double
+          ]
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(64): note: see reference to function template instantiation 'w3::KVList<std::string,double,5> &w3::KVList<std::string,double,5>::replace(int,const K &,const V &)' being compiled
+          with
+          [
+              K=std::string,
+              V=double
+          ]
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(30): note: see reference to class template instantiation 'w3::KVList<std::string,double,5>' being compiled
+d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(48): note: see reference to function template instantiation 'void display<std::string,double,5>(const std::string &,const w3::KVList<std::string,double,5> &,int)' being compiled
+d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(35): warning C4018: '<': signed/unsigned mismatch
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(34): note: while compiling class template member function 'const std::string &w3::KVList<std::string,std::string,5>::value(int) const'
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(16): note: see reference to function template instantiation 'const std::string &w3::KVList<std::string,std::string,5>::value(int) const' being compiled
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(71): note: see reference to class template instantiation 'w3::KVList<std::string,std::string,5>' being compiled
+d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(31): warning C4018: '<': signed/unsigned mismatch
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\kvlist.h(30): note: while compiling class template member function 'const std::string &w3::KVList<std::string,std::string,5>::key(int) const'
+  d:\main\tuition\3 semester\oop345\workshops\ws03\ws03\ws03\w4.cpp(16): note: see reference to function template instantiation 'const std::string &w3::KVList<std::string,std::string,5>::key(int) const' being compiled
+  WS03.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS03\WS03\Debug\WS03.exe
+  WS03.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS03\WS03\Debug\WS03.pdb (Partial PDB)
