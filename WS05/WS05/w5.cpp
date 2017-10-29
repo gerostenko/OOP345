@@ -13,7 +13,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
     // define the lambda expression for letter
-    auto letter = [&](double studGrade) {
+    auto letter = [](double studGrade) -> std::string {
         std::string gradeLetter;
         int grade = round(studGrade);
 

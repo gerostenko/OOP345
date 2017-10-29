@@ -43,6 +43,7 @@ namespace w5 {
         {
             throw "Oops! Can't open the file...";
         }
+        file.close();
     }
     Grades::~Grades()
     {

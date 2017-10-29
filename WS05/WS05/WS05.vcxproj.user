@@ -4,4 +4,8 @@
     <LocalDebuggerCommandArguments>"D:\Main\Tuition\3 Semester\OOP345\Workshops\WS05\Debug\w6.dat"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>"D:\Main\Tuition\3 Semester\OOP345\Workshops\WS05\x64\Debug\w6.dat"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
 </Project>
