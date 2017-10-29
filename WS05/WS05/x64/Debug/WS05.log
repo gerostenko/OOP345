@@ -1,0 +1,4 @@
+﻿  w5.cpp
+d:\main\tuition\3 semester\oop345\workshops\ws05\ws05\w5.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WS05.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS05\x64\Debug\WS05.exe
+  WS05.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS05\x64\Debug\WS05.pdb (Partial PDB)

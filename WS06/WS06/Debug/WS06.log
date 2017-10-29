@@ -1,0 +1,4 @@
+﻿  Sale.cpp
+d:\main\tuition\3 semester\oop345\workshops\ws06\ws06\sale.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  WS06.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS06\Debug\WS06.exe
+  WS06.vcxproj -> D:\Main\Tuition\3 Semester\OOP345\Workshops\WS06\Debug\WS06.pdb (Partial PDB)
