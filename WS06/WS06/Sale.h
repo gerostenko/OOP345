@@ -1,8 +1,13 @@
+///OOP345 Workshop 6: STL Containers
+// File: Sale.h
+// Version: 1.0
+// Date: 2017/10/17
+// Author: Galina Erostenko
+// Description: Sale Class Header File
+///////////////////////////////////////////////////
+
 #ifndef SALE_H_
 #define SALE_H_
-
-// Workshop 6 - STL Containers
-// Sale.h
 
 #include <iostream>
 #include <fstream>

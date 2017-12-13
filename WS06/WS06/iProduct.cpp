@@ -1,3 +1,11 @@
+///OOP345 Workshop 6: STL Containers
+// File: iProduct.cpp
+// Version: 1.0
+// Date: 2017/10/17
+// Author: Galina Erostenko
+// Description: iProduct Class Implementation
+///////////////////////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <string>

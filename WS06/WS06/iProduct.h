@@ -1,8 +1,14 @@
+///OOP345 Workshop 6: STL Containers
+// File: iProduct.h
+// Version: 1.0
+// Date: 2017/10/17
+// Author: Galina Erostenko
+// Description: iProduct Class Header File
+///////////////////////////////////////////////////
+
+
 #ifndef _I_PRODUCT_H_
 #define _I_PRODUCT_H_
-
-// Workshop 6 - STL Containers
-// iProduct.h
 
 #include<iostream>
 #include<fstream>
@@ -34,7 +40,6 @@ namespace w6 {
     };
     class TaxableProduct : public Product {
     private:
-        //I don't understand why use array here, sorry
         std::pair <w6::my_pair, w6::my_pair> m_taxStatus {{ "HST", 0.13 }, { "PST", 0.08 }};
         std::string m_status;
     public:

@@ -94,6 +94,7 @@ namespace w2
     {
         if (this != &obj)
         {
+            delete[] arrayOfStr;
             arrayOfStr = obj.arrayOfStr;
             arraySize = obj.arraySize;
             obj.arrayOfStr = nullptr;
